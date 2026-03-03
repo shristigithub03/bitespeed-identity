@@ -100,7 +100,7 @@ Content-Type: application/json
 
 ## 📂 GitHub Repository
 
-(Replace this with your actual repository link)
+(https://github.com/shristigithub03/bitespeed-identity)
 
 ```
 https://github.com/your-username/bitespeed-identity
