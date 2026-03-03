@@ -103,7 +103,7 @@ Content-Type: application/json
 (https://github.com/shristigithub03/bitespeed-identity)
 
 ```
-https://github.com/your-username/bitespeed-identity
+
 ```
 
 ---
